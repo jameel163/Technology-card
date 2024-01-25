@@ -1,0 +1,52 @@
+.card-1 {
+  border-top: 5px solid #ff4f64;
+  width: 400px;
+  margin: 15px;
+  background-color: #ffffff;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.card-2 {
+  border-radius: 15px;
+  width: 400px;
+  border-top: 5px solid #00a8e7;
+  margin: 15px;
+  background-color: #ffffff;
+  padding: 10px;
+}
+
+.card-3 {
+  width: 400px;
+  border-top: 5px solid #44c4a1;
+  margin: 15px;
+  border-radius: 15px;
+  background-color: #ffffff;
+  padding: 10px;
+}
+
+.card-4 {
+  width: 400px;
+  border-top: 5px solid #fcc200;
+  border-radius: 15px;
+  margin: 15px;
+  background-color: #ffffff;
+  padding: 10px;
+}
+
+.list-heading {
+  font-family: roboto;
+  font-size: 30px;
+  color: #171f46;
+  font-weight: 500;
+}
+.list-para {
+  color: #44c4a1;
+}
+.image-cont {
+  text-align: right;
+}
+.list-image {
+  height: 90px;
+  width: 90px;
+}
